@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Mihika58
-- 👀 I’m interested in  Programming
-- 🌱 I’m currently learning Python
+
 
 
 <!---
